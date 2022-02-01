@@ -20,4 +20,4 @@ const readAndAppend = (content, file) => {
 
   const readFromFile = util.promisify(fs.readFile);
 
-module.exports = { readAndAppend, readFromFile };
+module.exports = { readAndAppend, readFromFile, writeToFile };
