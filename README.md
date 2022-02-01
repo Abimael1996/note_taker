@@ -9,7 +9,6 @@ This website can be used to write and save notes.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribute](#contribute)
-- [Tests](#tests)
 - [Questions](#questions)
     
 ## Installation
