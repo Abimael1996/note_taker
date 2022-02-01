@@ -11,12 +11,6 @@ This website can be used to write and save notes.
 - [Contribute](#contribute)
 - [Questions](#questions)
     
-## Installation
-
-In order to install dependencies, run the following command: 
-
-    npm i
-    
 ## Usage
     
 Click on the "Get Started" button. After you write a title and text a save button will appear, click on it to save your note, which will now appear on the left column along with a trash button that can be clicked to delete notes. Click on an existing note to display its content in the right column. To write a new button, click on the "+" button on the top right of the page.
@@ -24,7 +18,7 @@ Click on the "Get Started" button. After you write a title and text a save butto
 ![Site screenshot](images/11-express-homework-demo-01.png)
 ![Site screenshot 2](images/11-express-homework-demo-02.png)
 
-Visit the website: https://abimael1996.github.io/note_taker/
+Visit the website: https://dashboard.heroku.com/apps/safe-escarpment-03788
 
 ## Contribute
     
