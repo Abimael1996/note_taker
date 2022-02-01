@@ -18,7 +18,7 @@ Click on the "Get Started" button. After you write a title and text a save butto
 ![Site screenshot](images/11-express-homework-demo-01.png)
 ![Site screenshot 2](images/11-express-homework-demo-02.png)
 
-Visit the website: https://dashboard.heroku.com/apps/safe-escarpment-03788
+Visit the website: https://safe-escarpment-03788.herokuapp.com/
 
 ## Contribute
     
