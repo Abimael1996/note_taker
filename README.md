@@ -13,7 +13,7 @@ This website can be used to write and save notes.
     
 ## Usage
     
-Click on the "Get Started" button. After you write a title and text a save button will appear, click on it to save your note, which will now appear on the left column along with a trash button that can be clicked to delete notes. Click on an existing note to display its content in the right column. To write a new button, click on the "+" button on the top right of the page.
+Click on the "Get Started" button. After you write a title and text, a save button will appear; click on it to save your note. Your note will now appear on the left column along with a trash button that can be clicked to delete notes. Click on an existing note to display its content on the right column. To write a new note, click on the "+" button on the top right of the page.
 
 ![Site screenshot](images/11-express-homework-demo-01.png)
 ![Site screenshot 2](images/11-express-homework-demo-02.png)
